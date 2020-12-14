@@ -84,3 +84,5 @@ searchCity("Austin Texas");
 
 let searchForm = document.querySelector("#search-form");
 searchForm.addEventListener("submit", handleSubmit);
+
+
